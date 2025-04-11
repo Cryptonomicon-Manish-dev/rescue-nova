@@ -159,4 +159,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, email support@rescuenova.com or join our [Discord community](https://discord.gg/rescuenova).
 
 ---
-Made with ❤️ by the Rescue Nova Team
+Made with ❤️ by the Code Warriors Team
